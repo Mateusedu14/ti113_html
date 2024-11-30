@@ -1,0 +1,38 @@
+h1{
+    color: crimson;
+    background-color: bisque;
+    font-size: 30px;
+
+
+
+}
+
+section{
+
+    border: 5px solid rgb(255, 0, 0);
+    background-color: cadetblue;
+    
+
+}
+
+h2{
+
+    border: 2px dashed cornsilk;
+    background-color: brown;
+    border-radius: 15px;
+
+}
+
+button{
+
+    font-size: 10px;
+    width: 100px;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgba(252, 1, 197, 0.582);
+    color: aliceblue;
+
+}
